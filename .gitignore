@@ -1,0 +1,38 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserdata
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+Packages/
+.swiftpm/xcode/package.xcworkspace/
+.build/
+
+# User settings
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Xcode logs
+xcdebugger/
+
